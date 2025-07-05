@@ -1,0 +1,6 @@
+@ESSCD_API_HostAddress = http://localhost:5217
+
+GET {{ESSCD_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
